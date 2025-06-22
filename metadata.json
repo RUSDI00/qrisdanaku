@@ -1,0 +1,5 @@
+{
+  "name": "Qris Simple Rusdi",
+  "description": "A web application to generate dynamic QRIS codes with an optional service fee (percentage or fixed amount). Features an enhanced UI and calls an external API.",
+  "requestFramePermissions": []
+}
